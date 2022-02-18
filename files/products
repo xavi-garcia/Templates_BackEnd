@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Naruto Hokage",
+    "price": "50",
+    "file": "Naruto-Hokage-300x300.jpg",
+    "id": 1
+  },
+  {
+    "name": "Madara",
+    "price": "50",
+    "file": "Madara-300x300.jpg",
+    "id": 2
+  },
+  {
+    "name": "Pain",
+    "price": "15",
+    "file": "Pain-300x300.jpg",
+    "id": 3
+  }
+]
