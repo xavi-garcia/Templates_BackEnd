@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.grid-container{
+    padding: 15px;
+    display: grid;
+}
+
+#image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
+
+#row1{
+    padding-right: 20px;
+    font-size: large;
+}
+
+#h1{
+    padding:50px
+}

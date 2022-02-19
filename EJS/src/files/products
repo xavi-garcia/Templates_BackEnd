@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pichu",
+    "price": "15",
+    "thumbnail": "https://i.ibb.co/fDTXJvX/pichu-300x300.jpg",
+    "id": 1
+  },
+  {
+    "name": "Mr.Mime",
+    "price": "20",
+    "thumbnail": "https://i.ibb.co/TBTZ2pH/Mr-Mime-300x300.jpg",
+    "id": 2
+  },
+  {
+    "name": "Mewtwo",
+    "price": "20",
+    "thumbnail": "https://i.ibb.co/9NPhmSN/Mewtwo-300x300.jpg",
+    "id": 3
+  },
+  {
+    "name": "Nexuko",
+    "price": "40",
+    "thumbnail": "https://i.ibb.co/Fkp6kDY/Nezuko-300x300.jpg",
+    "id": 4
+  },
+  {
+    "name": "Minato",
+    "price": "23",
+    "thumbnail": "https://i.ibb.co/Lhqtb9t/Minato-300x300.jpg",
+    "id": 5
+  }
+]

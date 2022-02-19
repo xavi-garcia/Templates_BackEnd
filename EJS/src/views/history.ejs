@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <% if (products.length>0) { %>
+    <% products.forEach(product => { %>
+        <div class="grid-container">
+            <table style="width:10%">
+                <tr>
+                    <div id="row1"><th id="row1">Product</th></div>
+                    <div id="row1"><th id="row1">Price</th></div>
+                    <div id="row1"><th id="row1">Picture</th></div> 
+                </tr>
+                <tr>
+                  <td><%=product.name %></td>
+                  <td><%=product.price %></td>
+                  <td><img id="image" src=<%=product.thumbnail %>></img></td>
+                </tr>
+              </table>
+        </div>
+    <% }) %>
+<% } else { %>
+    <p>No products to show</p>
+<% } %>
+</body>
+</html>
+    
+
+
